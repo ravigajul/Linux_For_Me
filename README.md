@@ -26,3 +26,13 @@ Rm -r tmp
 
 ## 5. Copy directory and all of its content
 Cp -r   my_dir1 /tmp/my_dir1
+
+# Commands - Files
+## 1. Create a new file(no contents)
+touch test.txt
+## 2. Add contents to file
+cat > test.txt
+This is a sample text in test.txt tile
+CTRL+D to exit out of edit mode
+## 3. View contents of file
+cat test.txt
