@@ -36,3 +36,8 @@ This is a sample text in test.txt tile
 CTRL+D to exit out of edit mode
 ## 3. View contents of file
 cat test.txt
+## 4. Copy file
+cp path/sourfile.txt path/targetfile.txt
+## Move(Rename) File
+mv path/oldname.txt path/newname.txt
+If the file is moved in the same directory its like renaming.
