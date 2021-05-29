@@ -25,4 +25,4 @@ Mkdir -p /tmp/asia/india/hyderabad
 Rm -r tmp
 
 ## 5. Copy directory and all of its content
-Cp -r   my_dir1 /tmp/my_dir1![image](https://user-images.githubusercontent.com/51070896/120066091-78d64a80-c092-11eb-846a-314d9b645eca.png)
+Cp -r   my_dir1 /tmp/my_dir1
