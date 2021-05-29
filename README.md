@@ -27,7 +27,7 @@ Rm -r tmp
 ## 5. Copy directory and all of its content
 Cp -r   my_dir1 /tmp/my_dir1
 
-# Commands - Files
+# 6. Commands - Files
 ## 1. Create a new file(no contents)
 touch test.txt
 ## 2. Add contents to file
@@ -38,6 +38,6 @@ CTRL+D to exit out of edit mode
 cat test.txt
 ## 4. Copy file
 cp path/sourfile.txt path/targetfile.txt
-## Move(Rename) File
+## 5. Move(Rename) File
 mv path/oldname.txt path/newname.txt
 If the file is moved in the same directory its like renaming.
